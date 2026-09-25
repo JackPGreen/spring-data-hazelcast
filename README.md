@@ -1,7 +1,7 @@
 # Spring Data Hazelcast
 
 <a href="https://github.com/hazelcast/spring-data-hazelcast/actions?query=event%3Apush+branch%3Amaster"><img alt="GitHub Actions status" src="https://github.com/hazelcast/spring-data-hazelcast/workflows/build/badge.svg"></a>
-[![Maven Central](https://maven-badges.sml.io/maven-central/com.hazelcast/spring-data-hazelcast/badge.svg)](https://maven-badges.sml.io/maven-central/com.hazelcast/spring-data-hazelcast) 
+![Maven Central Version](https://img.shields.io/maven-central/v/com.hazelcast/spring-data-hazelcast)
 
 The primary goal of the [Spring Data](http://projects.spring.io/spring-data/) is to make it easier to build Spring-powered applications that use new data access technologies. This module provides integration with [Hazelcast](http://hazelcast.com).
 
